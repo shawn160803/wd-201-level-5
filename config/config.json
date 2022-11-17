@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "shawn",
+    "password": "avinash",
+    "database": "todo_db_dev",
+    "host": "127.0.0.1",
+    "dialect": "shawn",
+    "logging": false
+  },
+  "test": {
+    "username": "shawn",
+    "password": "avinash",
+    "database": "todo_db_test",
+    "host": "127.0.0.1",
+    "dialect": "shawn",
+    "logging": false
+  },
+  "production": {
+    "username": "shawn",
+    "password": "avinash",
+    "database": "todo_db_prod",
+    "host": "127.0.0.1",
+    "dialect": "shawn"
+  }
+}
